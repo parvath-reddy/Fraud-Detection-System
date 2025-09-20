@@ -57,8 +57,8 @@ A state-of-the-art machine learning system that detects fraudulent financial tra
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/fraud-detection-ml.git
-cd fraud-detection-ml
+git clone https://github.com/parvath-reddy/fraud-detection-system
+cd fraud-detection-system
 ```
 
 2. **Install dependencies**
@@ -127,71 +127,3 @@ Ensemble method combining:
 - 200+ parameter combinations tested
 - Bayesian optimization for final tuning
 
-## 🔮 Future Enhancements
-
-- [ ] Deep learning models (LSTM for sequence analysis)
-- [ ] Real-time API integration
-- [ ] Multi-currency support
-- [ ] Advanced visualization dashboard
-- [ ] Mobile application
-- [ ] Explainable AI (LIME/SHAP integration)
-- [ ] A/B testing framework
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Your Name**
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
-## 🙏 Acknowledgments
-
-- Dataset provided by [Kaggle/UCI ML Repository]
-- Inspired by real-world fraud detection systems
-- Thanks to the Streamlit community for deployment support
-
-## 📊 Performance Metrics Visualization
-
-The system achieves exceptional performance across all metrics:
-
-```
-Confusion Matrix:
-              Predicted
-              Legitimate | Fraudulent
-Actual   ----------------|-----------
-Legitimate |   313,250  |     520
-Fraudulent |       400  |   98,567
-```
-
-## 🔒 Security & Compliance
-
-- PCI DSS compliant architecture
-- No storage of sensitive financial data
-- Encrypted model predictions
-- GDPR compliant data handling
-
-## 📞 Support
-
-For support, email your.email@example.com or open an issue in the GitHub repository.
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/fraud-detection-ml&type=Date)](https://star-history.com/#yourusername/fraud-detection-ml&Date)
-
----
-
-**If you find this project useful, please consider giving it a ⭐ on GitHub!**
