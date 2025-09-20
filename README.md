@@ -9,7 +9,7 @@
 
 A state-of-the-art machine learning system that detects fraudulent financial transactions in real-time with 99.7% accuracy. Built using advanced ensemble methods and trained on 1,048,567 transactions, this system helps financial institutions prevent fraud before it happens.
 
-### 🌟 Live Demo: [fraud-detection-ml.streamlit.app](https://fraud-detection-ml.streamlit.app)
+### 🌟 Live Demo: [[fraud-detection-ml.streamlit.app](https://fraud-detection-ml.streamlit.app](https://fraud-detection-system-x.streamlit.app/))
 
 ## ✨ Key Features
 
